@@ -18,7 +18,7 @@
   - Creating mini tools in JavaScript (quiz app, gallery, recipe book, etc.)  
   - Learning backend development with Node.js  
   - Learning Python basics for logical thinking and automation  
-- 🎯 Goal: Become a strong full-stack developer with AI and API skills  
+- 🎯 Goal: Become a strong full-stack developer.  
 
 ---
 
@@ -29,9 +29,18 @@
 
 ## 🤝 Connect With Me  
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/shri-krishna-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shri-krishna-kumar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/krishnacode85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishnacode85/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/shrikrishna770" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/shrikrishna770" height="30" width="40" /></a>
+<a href="https://codepen.io/shri-krishna-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/shri-krishna-kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/krishnacode85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/krishnacode85/" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/shrikrishna770" target="_blank">
+  <img 
+    align="center" 
+    src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" 
+    alt="codechef" 
+    height="30" 
+    width="40"
+    style="filter: invert(1);" 
+  />
+</a>
 </p>
 
 ---
@@ -60,12 +69,7 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy  
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrikrishna770" alt="trophy" />
-</p>
 
----
 
 ## 📊 GitHub Stats  
 <p>
@@ -76,9 +80,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrikrishna770&show_icons=true&locale=en" alt="stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrikrishna770&" alt="streak" />
 </p>
+
 
 ---
 
